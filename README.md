@@ -26,11 +26,3 @@ This project is an ETL pipeline that:
 - Python 3.x
 - SQLite
 
----
-
-## Installation
-
-1. **Clone the Repository:**
-```sh
-git clone https://github.com/YOUR_USERNAME/etl-sales-data-pipeline.git
-cd etl-sales-data-pipeline
