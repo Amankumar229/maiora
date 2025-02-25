@@ -1,2 +1,2 @@
-# maiora
-sales data from two different regions and their operations and business case 
+# ETL-sales-data-pipeline
+Python ETL pipeline for sales data integration, transformation, and loading into SQLite.
